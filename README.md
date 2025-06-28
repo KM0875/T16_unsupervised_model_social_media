@@ -1,1 +1,2 @@
 # T16_unsupervised_model_social_media
+YouTube is the most popular and most used video platform in the world today. We are performing Unsupervised Learning technique on our dataset to cluster videos using video tags, titles and other relevant features to group videos with similar type of content. We have also drawn major insights regarding likes, dislikes , views and other metrics for our data. These insights might be useful for creators who want to increase popularity of their videos on YouTube.
